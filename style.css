@@ -1,0 +1,131 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.navbar h2{
+    font-size:xx-large;
+    padding-left: 25px;
+}
+
+.navbar h2,ul,a,li{
+    display: inline;
+    
+}
+ 
+.navbar ul{
+    margin-left: 45%;
+}
+.navbar ul li{
+    padding-left: 20px;
+}
+li:hover{
+    color: white;
+
+}
+h4{
+    padding-left: 20px;
+    margin: 10px;
+    color: whitesmoke;
+    font-size: larger;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+input{
+    width: 60%;
+    padding: 15px;
+}
+
+.searchbar{
+    text-align: center;
+    padding: 20px;
+}
+p{
+    text-align: center;
+}
+.colour {
+    color:#DAE6E6;
+    text-align: center;
+    text-decoration:dashed;
+    font-style: italic;
+    font-size: larger;
+    padding: 10px;
+    }
+.wheel{
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    }
+.sam{
+    text-align: justify;
+    padding-left: 90px;
+    
+}
+.para2{
+    margin-right: 120px;
+}
+.colombus{
+    display: flex;
+    justify-content: space-around;
+}
+.watergames{
+    padding: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+.para4{
+    margin-right: 120px;
+}
+.freekwheel{
+    display: flex;
+    justify-content: space-around;
+}
+.phase{
+    text-decoration: underline;
+    text-shadow: #839b9b;
+}
+.brand{
+        display: flex;
+        justify-content: space-around;
+
+}
+
+.ch1{
+    padding: 70px;
+}
+.ch2{
+    padding: 70px;
+}
+.ch3{
+    padding: 70px;
+}
+.ch4{
+    padding: 70px;
+}
+
+.head{
+    padding: 20px;
+    font-style: italic;
+    font-size: xx-large;
+    color: goldenrod;
+}
+h5{
+    text-align: center;
+    font-size: medium;
+}
+.title{
+    padding: 20px;
+    text-align: center;
+    font-style: italic;
+    font-size: x-large;
+    color: goldenrod;
+
+}
+td{
+    padding: 5px;
+
+}
+table{
+    margin: 10px;
+    color: #c3ce27;
+}
